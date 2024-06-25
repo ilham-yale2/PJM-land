@@ -1,0 +1,362 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Jun 2024 17:03:56 at https://www.intiland.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.intiland.com/ -O1 "D:\INTIVE\Web Personal\PJM Group" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:03:57	Warning: 	Moved Permanently for https://www.intiland.com/
+17:03:57	Warning: 	File has moved from https://www.intiland.com/ to https://www.intiland.com/id/
+17:05:03	Error: 	"Method Not Allowed" (405) at link https://www.intiland.com/xmlrpc.php (from https://www.intiland.com/id/)
+17:06:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.9 (from https://www.intiland.com/id/)
+17:06:05	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.intiland.com/id/)
+17:07:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/apartemen/jakarta/1park-residences/ (from https://www.intiland.com/id/)
+17:09:51	Warning: 	Link https://www.intiland.com/id/promo/ not scanned (follow robots meta tag)
+17:12:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-5310.css?ver=1712127411 (from https://www.intiland.com/en/)
+17:12:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/wp-json/wp/v2/pages/5310 (from https://www.intiland.com/en/)
+17:13:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/apartment/jakarta/1park-hamilton/ (from https://www.intiland.com/en/)
+17:13:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/office/tangerang/aeropolis/ (from https://www.intiland.com/en/)
+17:15:07	Warning: 	Link https://www.intiland.com/en/promo/ not scanned (follow robots meta tag)
+17:15:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/sustainability-report/ (from https://www.intiland.com/en/)
+17:15:21	Error: 	Exit requested by shell or user
+17:15:23	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/wp-json/wp/v2/pages/5299
+17:15:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/news-events/ (from https://www.intiland.com/en/)
+17:15:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/privilege-card/ (from https://www.intiland.com/en/)
+17:15:25	Warning: 	File not added due to mirror cancel: www.intiland.com/robots.txt
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/Trident/
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/Trident/ to https://www.intiland.com
+17:15:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/schema.org/
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/schema.org/ to https://www.intiland.com
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=123
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/?p=123 to https://www.intiland.com
+17:15:25	Warning: 	Retry after error -4 (No data (connection closed)) at link www.intiland.com/wp-content/plugins/revslider/public/assets/assets/dummy.png (from https://www.intiland.com/id/rumah/surabaya/amesta-living/)
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=26281
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/?p=26281 to https://www.intiland.com
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=525
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/?p=525 to https://www.intiland.com
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/rumah/jakarta/griya-semanan/
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/rumah/jakarta/griya-semanan/ to https://www.intiland.com
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=666
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/?p=666 to https://www.intiland.com
+17:15:25	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=24346
+17:15:25	Warning: 	File has moved from https://www.intiland.com/id/?p=24346 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=901
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=901 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=943
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=943 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=953
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=953 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1098
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1098 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1210
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1210 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2164
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2164 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1695
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1695 to https://www.intiland.com
+17:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2023/05/1527004083.png (from https://www.intiland.com/id/apartemen/tangerang/aeropolis/)
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1964
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1964 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1708
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1708 to https://www.intiland.com
+17:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-1824.css?ver=1711142403 (from https://www.intiland.com/id/apartemen/surabaya/graha-golf/)
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1824
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1824 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1837
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1837 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1862
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1862 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1913
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1913 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1928
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1928 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1946
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=1946 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=4660
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=4660 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/kantor/surabaya/praxis-3/
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/kantor/surabaya/praxis-3/ to https://www.intiland.com
+17:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2023/06/Aeropolis-Industrial-Crop-768x384-1.png (from https://www.intiland.com/id/kantor/tangerang/aeropolis/)
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2462
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2462 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2566
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2566 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2475
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2475 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2515
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2515 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2497
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2497 to https://www.intiland.com
+17:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2023/05/1531497571-1.jpg (from https://www.intiland.com/id/kantor/surabaya/sub-co/)
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2705
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2705 to https://www.intiland.com
+17:15:26	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2775
+17:15:26	Warning: 	File has moved from https://www.intiland.com/id/?p=2775 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=969
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=969 to https://www.intiland.com
+17:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fritel%2Ftangerang%2Faeropolis%2F (from https://www.intiland.com/id/ritel/tangerang/aeropolis/)
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=89
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=89 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1230
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1230 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=126
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=126 to https://www.intiland.com
+17:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-457.css?ver=1711101050 (from https://www.intiland.com/id/ritel/jakarta/sq-dome/)
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=457
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=457 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=816
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=816 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2967
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2967 to https://www.intiland.com
+17:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2023/08/Tipe-A-Layout-1.png (from https://www.intiland.com/id/ritel/tangerang/talaga-bestari/)
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1341
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1341 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1485
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1485 to https://www.intiland.com
+17:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/karir (from https://www.intiland.com/id/ritel/surabaya/wtc-surabaya/)
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1745
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1745 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1848
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1848 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1725
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1725 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2136
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2136 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2189
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2189 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2526
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2526 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=1994
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=1994 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2602
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2602 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=2667
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=2667 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=27881
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=27881 to https://www.intiland.com
+17:15:27	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3021
+17:15:27	Warning: 	File has moved from https://www.intiland.com/id/?p=3021 to https://www.intiland.com
+17:15:29	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28992
+17:15:29	Warning: 	File has moved from https://www.intiland.com/id/?p=28992 to https://www.intiland.com/id/intiland-dan-bank-maspion-berkolaborasi-gelar-program-inovator-muda/
+17:15:30	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28653
+17:15:30	Warning: 	File has moved from https://www.intiland.com/id/?p=28653 to https://www.intiland.com/id/intiland-menggelar-rapat-umum-pemegang-saham-tahun-2024/
+17:15:30	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28557
+17:15:30	Warning: 	File has moved from https://www.intiland.com/id/?p=28557 to https://www.intiland.com/id/dukung-insentif-ppn-intiland-persembahkan-intiland-sunshine-fair/
+17:15:30	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=23624
+17:15:30	Warning: 	File has moved from https://www.intiland.com/id/?p=23624 to https://www.intiland.com
+17:15:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/persembahan-spesial-awal-tahun-bersama-intiland-specta-fair-2023/ (from https://www.intiland.com/id/media/)
+17:15:31	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28342
+17:15:31	Warning: 	File has moved from https://www.intiland.com/id/?p=28342 to https://www.intiland.com
+17:15:32	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28344
+17:15:32	Warning: 	File has moved from https://www.intiland.com/id/?p=28344 to https://www.intiland.com
+17:15:32	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=28347
+17:15:32	Warning: 	File has moved from https://www.intiland.com/id/?p=28347 to https://www.intiland.com
+17:15:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2024/05/Model-Rumah-Minimalis-2-Lantai-Modern-Landscape-820x1024.jpg (from https://www.intiland.com/id/blog/model-rumah-minimalis-2-lantai/)
+17:15:36	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3650
+17:15:36	Warning: 	File has moved from https://www.intiland.com/id/?p=3650 to https://www.intiland.com
+17:15:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-3747.css?ver=1717138789 (from https://www.intiland.com/id/manajemen/)
+17:15:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/?p=3747 (from https://www.intiland.com/id/manajemen/)
+17:15:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fmanajemen%2F (from https://www.intiland.com/id/manajemen/)
+17:15:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/manajemen/perry-yoranouw/ (from https://www.intiland.com/id/manajemen/)
+17:15:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/id/manajemen/archied-noto-pradono/ (from https://www.intiland.com/id/manajemen/)
+17:15:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-4058.css?ver=1717148737 (from https://www.intiland.com/id/manajemen/)
+17:15:40	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3703
+17:15:40	Warning: 	File has moved from https://www.intiland.com/id/?p=3703 to https://www.intiland.com
+17:15:40	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3837
+17:15:40	Warning: 	File has moved from https://www.intiland.com/id/?p=3837 to https://www.intiland.com
+17:15:40	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3346
+17:15:40	Warning: 	File has moved from https://www.intiland.com/id/?p=3346 to https://www.intiland.com
+17:15:40	Error: 	"Not Found" (404) at link https://www.intiland.com/wp-content/uploads/2020/08/Daftar-Lembaga-Pasar-Modal-converted.pdf (from https://www.intiland.com/id/gcg/)
+17:15:40	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3571
+17:15:40	Warning: 	File has moved from https://www.intiland.com/id/?p=3571 to https://www.intiland.com
+17:15:40	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=4251
+17:15:40	Warning: 	File has moved from https://www.intiland.com/id/?p=4251 to https://www.intiland.com
+17:15:42	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=4253
+17:15:42	Warning: 	File has moved from https://www.intiland.com/id/?p=4253 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=3073
+17:15:44	Warning: 	File has moved from https://www.intiland.com/id/?p=3073 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/id/?p=25875
+17:15:44	Warning: 	File has moved from https://www.intiland.com/id/?p=25875 to https://www.intiland.com
+17:15:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/plugins/jet-smart-filters/assets/lib/font-awesome/font/fontawesome-webfont.eot? (from https://www.intiland.com/wp-content/plugins/jet-smart-filters/assets/lib/font-awesome/font-awesome.min.css?ver=4.7.0)
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/id/origin=https://
+17:15:44	Warning: 	File has moved from https://www.intiland.com/id/origin=https:// to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/id/OPR/
+17:15:44	Warning: 	File has moved from https://www.intiland.com/id/OPR/ to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/id/Version/
+17:15:44	Warning: 	File has moved from https://www.intiland.com/id/Version/ to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5282
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5282 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5280
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5280 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/house/jakarta/griya-semanan/
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/house/jakarta/griya-semanan/ to https://www.intiland.com
+17:15:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-26348.css?ver=1711105760 (from https://www.intiland.com/en/house/jakarta/brezza/)
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=26348
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=26348 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5278
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5278 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5272
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5272 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5270
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5270 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=25143
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=25143 to https://www.intiland.com
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5268
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5268 to https://www.intiland.com
+17:15:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fen%2Fhouse%2Fjakarta%2Fsouth-grove%2F (from https://www.intiland.com/en/house/jakarta/south-grove/)
+17:15:44	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5266
+17:15:44	Warning: 	File has moved from https://www.intiland.com/en/?p=5266 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5264
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5264 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5260
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5260 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4725
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4725 to https://www.intiland.com
+17:15:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/2023/05/2-6.png (from https://www.intiland.com/en/apartment/jakarta/1park-residences/)
+17:15:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-4737.css?ver=1711117596 (from https://www.intiland.com/en/apartment/tangerang/aeropolis/)
+17:15:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/wp-json/wp/v2/properties/4737 (from https://www.intiland.com/en/apartment/tangerang/aeropolis/)
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4737
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4737 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/apartment/jakarta/1park-residence/
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/apartment/jakarta/1park-residence/ to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5258
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5258 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5256
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5256 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5254
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5254 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5252
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5252 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5250
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5250 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5248
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=5248 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4739
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4739 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4598
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4598 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4527
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4527 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4577
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4577 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4544
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4544 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for www.intiland.com/en/?wordfence_syncAttackData=1719307112.5536
+17:15:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.intiland.com/en/?wordfence_syncAttackData=1719307112.5536 and https://www.intiland.com/en/?wordfence_syncAttackData=1719307112.5536
+17:15:45	Warning: 	File has moved from www.intiland.com/en/?wordfence_syncAttackData=1719307112.5536 to https://www.intiland.com/en/?wordfence_syncAttackData=1719307112.5536
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4547
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4547 to https://www.intiland.com
+17:15:45	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4501
+17:15:45	Warning: 	File has moved from https://www.intiland.com/en/?p=4501 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4499
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4499 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5130
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5130 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5142
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5142 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5128
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5128 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5138
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5138 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5136
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5136 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5132
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5132 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5126
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5126 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5122
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5122 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=23544
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=23544 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5115
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5115 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5113
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5113 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=5120
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=5120 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4723
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4723 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4676
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4676 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4535
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4535 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4734
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4734 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4511
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4511 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=4509
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=4509 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=28622
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=28622 to https://www.intiland.com
+17:15:46	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=28999
+17:15:46	Warning: 	File has moved from https://www.intiland.com/en/?p=28999 to https://www.intiland.com/en/intiland-and-bank-maspion-collaborate-to-held-inovator-muda-program/
+17:15:48	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=28994
+17:15:48	Warning: 	File has moved from https://www.intiland.com/en/?p=28994 to https://www.intiland.com/en/intiland-holds-the-2024-annual-general-meeting-of-shareholders/
+17:15:48	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=28604
+17:15:48	Warning: 	File has moved from https://www.intiland.com/en/?p=28604 to https://www.intiland.com/en/supporting-ppn-incentives-intiland-presents-intiland-sunshine-fair/
+17:15:48	Warning: 	Moved Permanently for https://www.intiland.com/en/?p=23636
+17:15:48	Warning: 	File has moved from https://www.intiland.com/en/?p=23636 to https://www.intiland.com
+17:15:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/en/a-special-early-year-presentation-with-intiland-specta-fair-2023/ (from https://www.intiland.com/en/media/)
+17:15:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-5299.css?ver=1713422547 (from https://www.intiland.com/en/about-intiland/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/news-events/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/en/news-events/ (from https://www.intiland.com/en/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/privilege-card/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/en/privilege-card/ (from https://www.intiland.com/en/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/a
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:15:48	Warning: 	File not added due to mirror cancel: www.intiland.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+17:15:48	Error: 	"mirror stopped by user" (-1) at link www.intiland.com/wp-content/plugins/revslider/public/assets/assets/dummy.png (from https://www.intiland.com/id/rumah/surabaya/amesta-living/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2023/05/1527004083.png
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2023/05/1527004083.png (from https://www.intiland.com/id/apartemen/tangerang/aeropolis/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-1824.css?ver=1711142403
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-1824.css?ver=1711142403 (from https://www.intiland.com/id/apartemen/surabaya/graha-golf/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2023/06/Aeropolis-Industrial-Crop-768x384-1.png
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2023/06/Aeropolis-Industrial-Crop-768x384-1.png (from https://www.intiland.com/id/kantor/tangerang/aeropolis/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2023/05/1531497571-1.jpg
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2023/05/1531497571-1.jpg (from https://www.intiland.com/id/kantor/surabaya/sub-co/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fritel%2Ftangerang%2Faeropolis%2F
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fritel%2Ftangerang%2Faeropolis%2F (from https://www.intiland.com/id/ritel/tangerang/aeropolis/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-457.css?ver=1711101050
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-457.css?ver=1711101050 (from https://www.intiland.com/id/ritel/jakarta/sq-dome/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2023/08/Tipe-A-Layout-1.png
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2023/08/Tipe-A-Layout-1.png (from https://www.intiland.com/id/ritel/tangerang/talaga-bestari/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/karir
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/karir (from https://www.intiland.com/id/ritel/surabaya/wtc-surabaya/)
+17:15:48	Error: 	Unable to save file D:/INTIVE/Web Personal/PJM Group/www.intiland.com/id/karir: Permission denied
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/persembahan-spesial-awal-tahun-bersama-intiland-specta-fair-2023/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/persembahan-spesial-awal-tahun-bersama-intiland-specta-fair-2023/ (from https://www.intiland.com/id/media/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2024/05/Model-Rumah-Minimalis-2-Lantai-Modern-Landscape-820x1024.jpg
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2024/05/Model-Rumah-Minimalis-2-Lantai-Modern-Landscape-820x1024.jpg (from https://www.intiland.com/id/blog/model-rumah-minimalis-2-lantai/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-3747.css?ver=1717138789
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-3747.css?ver=1717138789 (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/?p=3747
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/?p=3747 (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fmanajemen%2F
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fid%2Fmanajemen%2F (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/manajemen/perry-yoranouw/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/manajemen/perry-yoranouw/ (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/id/manajemen/archied-noto-pradono/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/id/manajemen/archied-noto-pradono/ (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-4058.css?ver=1717148737
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-4058.css?ver=1717148737 (from https://www.intiland.com/id/manajemen/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/plugins/jet-smart-filters/assets/lib/font-awesome/font/fontawesome-webfont.eot?
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/plugins/jet-smart-filters/assets/lib/font-awesome/font/fontawesome-webfont.eot? (from https://www.intiland.com/wp-content/plugins/jet-smart-filters/assets/lib/font-awesome/font-awesome.min.css?ver=4.7.0)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-26348.css?ver=1711105760
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-26348.css?ver=1711105760 (from https://www.intiland.com/en/house/jakarta/brezza/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fen%2Fhouse%2Fjakarta%2Fsouth-grove%2F
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intiland.com%2Fen%2Fhouse%2Fjakarta%2Fsouth-grove%2F (from https://www.intiland.com/en/house/jakarta/south-grove/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/2023/05/2-6.png
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/2023/05/2-6.png (from https://www.intiland.com/en/apartment/jakarta/1park-residences/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-4737.css?ver=1711117596
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-4737.css?ver=1711117596 (from https://www.intiland.com/en/apartment/tangerang/aeropolis/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/wp-json/wp/v2/properties/4737
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/en/wp-json/wp/v2/properties/4737 (from https://www.intiland.com/en/apartment/tangerang/aeropolis/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/en/a-special-early-year-presentation-with-intiland-specta-fair-2023/
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/en/a-special-early-year-presentation-with-intiland-specta-fair-2023/ (from https://www.intiland.com/en/media/)
+17:15:48	Warning: 	File not added due to mirror cancel: https://www.intiland.com/wp-content/uploads/elementor/css/post-5299.css?ver=1713422547
+17:15:48	Error: 	"mirror stopped by user" (-1) at link https://www.intiland.com/wp-content/uploads/elementor/css/post-5299.css?ver=1713422547 (from https://www.intiland.com/en/about-intiland/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 52 seconds : 1846 links scanned, 1653 files written (274543072 bytes overall) [236640830 bytes received at 332360 bytes/sec], 49665264 bytes transferred using HTTP compression in 873 files, ratio 21%, 32.0 requests per connection
+(33 errors, 318 warnings, 0 messages)

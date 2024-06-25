@@ -1,0 +1,705 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+
+/* Temporary code */
+.otgs-development-site-front-end {
+	display: none;
+}
+
+/* Layout */
+body.elementor-template-full-width .main-page-wrapper .container,
+.container.main-footer {
+	max-width: unset !important;
+}
+
+.elementor-section-boxed .elementor-container {
+	max-width: 1222px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.elementor-template-full-width .row>[data-elementor-type],
+.container.main-footer {
+  	margin-bottom: 0 !important;
+	padding: 0 !important;
+}
+
+.main-page-wrapper {
+	padding-top: 0 !important;
+}
+
+body.single-post .main-page-wrapper,
+body.single-blog  .main-page-wrapper,
+body.archive.category .main-page-wrapper,
+body.archive.tax-blog-category .main-page-wrapper,
+body.archive.tax-blog-tag .main-page-wrapper {
+	padding: 50px 0 !important;
+}
+
+li {
+	margin-bottom: 0;
+}
+
+.testimonial-avatar img {
+	border-radius: 0 !important;
+}
+
+.testimonial-content footer {
+	color: var( --e-global-color-0e0a4a0 ) !important;
+}
+
+.elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+	padding: 10px 20px;
+}
+
+/* Header */
+.wd-dropdown-menu {
+	padding: 0 !important;
+}
+
+.wd-dropdown-menu ul {
+	background-color: #a5a5a5;
+}
+
+.wd-dropdown-menu ul li a {
+	padding: 10px !important;
+	color: #fff !important;
+}
+
+#menu-menu-page-iframe li:nth-last-child(2) a,
+#menu-menu-page-iframe-english li:nth-last-child(2) a{
+	font-size: 14px;
+    background-color: var(--wd-primary-color);
+    padding: 10px 15px;
+    color: #fff;
+	border-radius: 3px;
+}
+
+#menu-menu-page-iframe li:nth-last-child(2) a:hover,
+#menu-menu-page-iframe-english  li:nth-last-child(2) a:hover {
+	background-color: var(--wd-link-color-hover);
+}
+
+#menu-menu-page-iframe li:nth-last-child(2) a span,
+#menu-menu-page-iframe-english  li:nth-last-child(2) a span {
+	margin: auto !important;
+}
+
+.wd-dropdown-menu ul li:hover,
+.wd-dropdown-menu ul li.current-menu-item {
+	background-color: rgba(212,13,21,1) !important;
+}
+
+.whb-header .wd-header-nav {
+	padding-top: 45px;
+}
+
+.whb-header .site-logo {
+	margin-bottom: 25px;
+}
+
+.wd-nav[class*="wd-style-"]>li:is(.wd-has-children,.menu-item-has-children)>a:after {
+	color: rgba(85,85,85,1) !important;
+}
+
+.whb-sticked .whb-general-header .wd-dropdown {
+	margin-top: 8px !important;
+}
+
+.wd-nav-mob-tab {
+	display: none !important;
+}
+
+/* Footer */
+.section-footer ul.menu {
+	list-style: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.section-footer a:hover,
+.section-footer ul.menu a:hover {
+	color: #000 !important;
+}
+
+.section-footer ul.menu li a {
+	margin-left: -20px;
+}
+
+.section-footer ul.menu li a:hover {
+	margin-left: 0 !important;
+}
+
+.section-footer ul.menu li a:before {
+    background: #29aae3;
+    height: 2px;
+    width: 12px;
+    content: '';
+	display: inline-block;
+    margin-bottom: 3px;
+	visibility: hidden;
+	margin-right: 8px;
+}
+
+.section-footer ul.menu a:hover:before {
+	background: #c81a1f !important;
+	left: 0 !important;
+	visibility: visible !important;
+}
+
+.section-footer ul.menu a {
+	font-size: 14px !important;
+	color: #5b5b5b !important;
+}
+
+/* Page Property - Rumah */
+/* Amesta Living */
+.tab-property .elementor-tabs-wrapper {
+	border-bottom: 1px solid #ebebeb !important;
+}
+
+.tab-property .elementor-tab-title {
+	padding: 14px 20px !important;
+}
+
+.tab-property .elementor-tab-title.elementor-active {
+	border-bottom: 1px solid #000 !important;
+}
+
+/* Mobile Responsive */
+@media (max-width: 766px) {
+	.tab-property .elementor-tab-title {
+		border: 1px solid #f0f0f0 !important;
+    	margin-bottom: 1px;
+    	background-color: #f8f8f8;
+		text-align: center;
+    	font-weight: 700 !important;
+	}
+	
+	.tab-property .elementor-tab-title.elementor-active {
+		border-bottom: 0 !important;
+	}
+	
+	.column-filter-properti .elementor-widget-wrap { 
+		background: #6b6b6b !important;
+	}
+	
+	.column-filter-properti .elementor-heading-title,
+	.column-filter-properti .jet-filter-label {
+		color: #fff !important;
+	}
+	
+	.slider-section3-home .slider-in-container .wd-slide-container {
+		padding: 0 !important;
+	}
+	
+	/* SR Page */
+	.custom-quote-section h4,
+	.custom-quote-section h5{
+		font-size: 23px !important;
+		line-height: 32x !important;
+	}
+	.custom-mobile-align-left .text-right,
+	.content-right .custom-accordion-selengkapnya,
+	.content-right .custom-accordion-selengkapnya .wd-accordion-title{
+		text-align: left !important;
+	}
+	
+	.section-filter-berita .jet-smart-filters-date-period,
+	.section-filter-berita .apply-filters {
+		display: block !important;
+	}
+	/* Table */
+	.wpDataTables td[data-row-index="0"]{
+		line-height: 24px !important;
+		font-size: 17px !important;
+	}
+}
+
+/* Mobile & Tablet */
+@media (max-width: 770px) {
+	.timeline-tonggak-sejarah .woodmart-timeline-line {
+		left: 0 !important;
+	}
+
+	.timeline-tonggak-sejarah .woodmart-timeline-dot {
+		left: 0 !important;
+		top: 100px !important;
+		margin-left: -5px !important;
+	}
+	
+	.timeline-tonggak-sejarah :is(.wd-item-position-left,.wd-item-position-right) .timeline-col {
+		background-color: #FFFFFF !important;
+		padding: 24px 14px !important; 
+	}
+	
+	.timeline-tonggak-sejarah .timeline-arrow,
+	.timeline-tonggak-sejarah .timeline-col-secondary {
+		display: none !important;
+	}
+	
+	.timeline-tonggak-sejarah :is(.wd-item-position-left,.wd-item-position-right):not(:first-child) {
+		margin-top: 0 !important;
+	}
+	
+	.timeline-tonggak-sejarah .wd-timeline-breakpoint  {
+		text-align: left !important;
+    	margin-left: -23px;
+	}
+	
+	.timeline-tonggak-sejarah .woodmart-timeline-breakpoint-title {
+		padding: 3px 8px !important;
+    	font-size: 13px !important;
+	}
+	
+	.whb-header .site-logo {
+		margin-bottom: 0 !important;
+	}
+	/* Tipe Unit */
+	.custom-section-unit .custom-image-unit .owl-stage{
+		height: 300px;
+	}
+	.custom-section-unit .custom-image-unit .wd-gallery-item img{
+		height: 300px;
+	}
+}
+
+/* Tablet Only */
+@media screen and (min-width: 768px) and (max-width:980px) {
+	/* Table */
+	.wpDataTables td[data-row-index="0"]{	
+		line-height: 32px !important;
+	}
+}
+	/* Desktop Only */
+@media (min-width: 1040px) {
+	.whb-header_230949 .wd-header-nav {
+		padding-left: 20% !important
+	}
+	/* Tipe Unit */
+	.custom-section-unit .owl-dots{
+		height: 0px;
+	}
+	.custom-section-unit .custom-image-unit .owl-stage{
+		height: 502px;
+	}
+	.custom-section-unit .custom-image-unit .wd-gallery-item img{
+		height: 502px;
+	}
+	/* Table */
+	table#wpdtSimpleTable-1{
+		width: 100% !important;
+	}
+	.wpDataTables td[data-row-index="0"]{	
+		line-height: 32px !important;
+	}
+}
+
+/* Graha Famili */
+.section-fasilitas-graha-famili .promo-banner .wrapper-content-banner {
+	padding: 10px !important;
+}
+
+.section-fasilitas-graha-famili .promo-banner .wrapper-content-banner {
+	visibility: hidden;
+	margin-top: -30px;
+	padding: 0 !important;
+} 
+
+.section-fasilitas-graha-famili .promo-banner .wrapper-content-banner .content-banner {
+	background: #111111B3;
+    padding: 10px !important;
+}
+
+.section-fasilitas-graha-famili .promo-banner:hover .wrapper-content-banner {
+	visibility: visible;
+	-webkit-transition: all .35s ease-in-out;
+	margin-top: 0px;
+	background-color: #333 !important;
+    opacity: 0.8;
+}
+
+/* Griya Semanan */
+.section-properti-terbaik .elementor-tab-title {
+	background: #ebebeb;
+    border-radius: 5px 5px 0 0;
+    padding: 14px 20px !important;
+}
+
+.section-properti-terbaik .elementor-tab-content  {
+	border-radius: 5px;
+}
+
+/* batang-industrial-park */
+.banner-with-desc .banner-inner p{
+	color: #fff;
+}
+
+/* Contact Form */
+.cta-form-new label input[type=text], .cta-form-new label input[type=email], .cta-form-new label input[type=tel],
+.cta-form-new label textarea  {
+	height: 46px;
+    text-indent: 60px;
+    padding: 0;
+    line-height: 46px;
+}
+
+.cta-form-new textarea {
+	height: 100px !important;
+	min-height: unset !important;
+}
+
+.cta-form-new .fa {
+	position: absolute;
+    z-index: 1;
+    background-color: #f0f0f0;
+    padding: 0;
+    line-height: 42px;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+    left: 2px;
+    top: 2px;
+}
+
+.cta-form-new .fa.nobg {
+	background-color: #fff !important;
+}
+
+.cta-form-new label {
+	margin: 0 0 7px 0;
+    position: relative;
+}
+
+.cta-form-new label input[type=text]:hover, .cta-form-new label input[type=email]:hover, 
+.cta-form-new label input[type=tel]:hover, .cta-form-new label textarea:hover {
+    border-color: #222;
+}
+
+.cta-form-new label input[type=submit] {
+	width: 100% !important;
+    margin-top: -7px !important;
+    background-color: #c81a1f;
+    color: #fff;
+    padding: 0 24px;
+    line-height: 48px;
+    text-transform: capitalize;
+    letter-spacing: .1px;
+    font-size: 16px;
+}
+
+.cta-form-new label input[type=submit]:hover {
+	background-color: #ef3137 !important;
+}
+
+.cta-form-new br {
+	display: none !important;
+}
+
+/* SR Page */
+.content-right .custom-accordion-selengkapnya{
+	text-align: right;
+}
+.custom-accordion-selengkapnya .wd-accordion-item,
+.custom-accordion-selengkapnya .wd-accordion.wd-style-default:before{
+	border: none !important;
+}
+.section-aktivitas-lingkungan .custom-width-75{
+	width: 75%;
+}
+.custom-sr-flip-box .ube-flip-box .ube-flip-box-layer{
+	-webkit-transition: none !important;
+	transition: none !important;
+}
+.custom-sr-ikhtisar-keberlanjutan p strong{
+	font-weight: 700;
+}
+.custom-sr-progress .ube-progress-label{
+	margin-left: 16px;
+}
+.custom-sr-infobox ul{
+	list-style-position: inside;
+}
+.custom-flip-box-lingkungan .ube-flip-box-front{
+	padding: 0;
+}
+.custom-flip-box-lingkungan .ube-flip-box-front .ube-flip-content {
+	background-color: rgba(0,0,0,0.3);
+	width: 100%;
+	padding: 8px 0;
+}
+.custom-flip-box-lingkungan .ube-flip-box-title{
+	margin:0;
+}
+
+/* Karir Page */
+.accordion-page-karir .elementor-accordion-item {
+	margin-top: 5px;
+}
+
+.accordion-page-karir .elementor-tab-content {
+    border: 1px solid #5b5b5b !important;
+}
+
+.accordion-page-karir .elementor-tab-title {
+	border-radius: 3px;
+}
+
+/* CSR Page */
+.section-scroll-csr .wd-text-block {
+    height: 380px;
+	overflow-y: scroll;
+}
+
+/* Tonggak Sejarah Page */
+.tab-tentang-intiland .elementor-tab-title {
+	border-radius: 8px;
+    padding: 10px 24px !important;
+	background-color: #EEEEEE;
+	margin: 0 4px;
+}
+
+.tab-tentang-intiland .elementor-tab-title.elementor-active {
+	border: 1px solid #E0E1E0 !important;
+	background-color: #F9F9F9 !important;
+}
+
+.section-manajemen .wd-info-box:hover .info-box-title {
+	text-decoration: underline !important;
+}
+
+.timeline-tonggak-sejarah .woodmart-timeline-dot,
+.timeline-tonggak-sejarah .woodmart-timeline-line .line-dot {
+	border: none;
+	box-shadow: none !important;
+}
+
+.timeline-tonggak-sejarah .woodmart-timeline-breakpoint-title {
+	padding: 5px 16px;
+    color: #7e7e7e;
+    background: #fff !important;
+    border: 1px solid #e5e5e5 !important;
+}
+
+.timeline-tonggak-sejarah .wd-item-position-left .timeline-col-primary {
+	text-align: left !important; 
+}
+
+.timeline-tonggak-sejarah .timeline-col {
+	background-color: #FFFFFF !important;
+    padding: 24px 14px !important;
+	border: 1px solid #F9FAF9;
+	filter: drop-shadow(0px 9px 28px rgba(0, 0, 0, 0.1));
+	text-align: left !important;
+}
+
+.timeline-tonggak-sejarah .wd-timeline-image,
+.timeline-tonggak-sejarah .wd-timeline-image img {
+	width: 100%;
+}
+
+.timeline-tonggak-sejarah .timeline-col-secondary {
+	visibility: hidden !important;
+}
+
+.timeline-tonggak-sejarah .timeline-col .timeline-arrow:before {
+	font-size: 36px !important;
+}
+
+/* Single Profile Manajemen */
+.section-profil-manajemen .info-box-icon {
+	font-size: 21.33px !important;
+	line-height: 32px !important;
+}
+
+.section-profil-manajemen .wd-info-box .box-with-text {
+	width: 25% !important;
+}
+
+.section-profil-manajemen .wd-info-box .info-box-icon {
+	display: block !important;
+}
+
+/* Page Siaran & Berita */
+.section-filter-berita .jet-smart-filters-date-period,
+.section-filter-berita .apply-filters {
+	display: inline-block;
+}
+
+/* Page Blog */
+.blog-design-meta-image .wd-post-img img {
+	height: 250px !important;
+	object-fit: cover;
+}
+
+.title-blog-listing .jet-listing-dynamic-field__content:hover,
+.wd-blog-holder .wd-entities-title a:hover {
+	color: var(--wd-link-color) !important;
+}
+
+.blog-design-meta-image .wd-post-actions,
+.blog-design-masonry .wd-entry-meta,
+.blog-design-masonry .wd-tltp,
+.wd-entry-meta .meta-author {
+	display: none !important;
+}
+
+.blog-design-meta-image:hover .wd-post-img {
+	transform: none !important;
+}
+
+/* Sidebar Blog */
+.widget-area .widget_text {
+	padding: 0 !important;
+    margin-bottom: 24px !important;
+    border: none !important;
+}
+
+.widget-area .widget_text p {
+	padding-top: 9px;
+    font-weight: 400;
+    font-size: 24px;
+    border-top: 2px solid #c81a1f;
+}
+
+.wp-block-latest-posts li {
+	border-bottom: 1px solid #F0F0F0;
+    padding: 10px 0;
+}
+
+.widget-area .wp-block-latest-posts li a {
+    line-height: 24px !important;
+    font-weight: 400 !important;
+}
+
+.widget-area .wp-block-latest-posts li a:hover {
+	color: var(--wd-primary-color);
+}
+
+/* Single Blog */
+body.single-blog .content-layout-wrapper {
+	display: block !important;
+}
+
+body.single-blog .site-content {
+	margin: auto !important;
+}
+
+body.single-blog .sidebar-container {
+	display: none;
+}
+
+body.single-blog .entry-header {
+	position: relative;
+    margin-bottom: 30px;
+}
+
+body.single-blog .wd-entities-title,
+body.single-blog .article-inner {
+	text-align: center;
+}
+
+body.single-blog .article-body-container {
+	text-align: left;
+}
+body.single-blog .wd-page-nav {
+	display: none;
+}
+body.single-blog .wd-single-footer{
+	margin-top: 48px;
+}
+
+.scrollToTop {
+	bottom: 100px !important;
+}
+
+/* Tipe Unit */
+.custom-section-unit .owl-dot span,
+.section-testi-properti .owl-dot span {
+	width: 16px !important;
+  	height: 16px !important;
+	border: 1px solid #959695 !important;
+}
+.custom-section-unit .owl-dots .owl-dot.active span,
+.section-testi-properti .owl-dots .owl-dot.active span {
+	background-color: #681015 !important;
+  	border-color: #681015 !important;
+}
+.custom-section-unit .owl-dots .owl-dot,
+.section-testi-properti .owl-dots .owl-dot {
+	margin-top: 24px;
+}
+.custom-section-unit .custom-image-unit .wd-gallery-item img{
+	width: auto;
+	object-fit: cover;
+}
+.custom-section-unit .custom-image-unit .owl-stage .owl-item:first-child .wd-gallery-item img{
+	width: 721px;
+}
+
+/* Testimonial - New LP */
+.section-testi-properti .testimonial-avatar img {
+	border-radius: 50% !important;
+}
+
+.section-testi-properti .testimonial-content p {
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 32px;
+}
+
+/* Search Section New Archive */
+.search-layout-1 select[name="property_type"],
+.search-layout-2 select[name="property_type"],
+.search-layout-2 select[name="kota"]{
+	background-color: #dedede !important;
+	pointer-events: none !important;
+}
+.jet-checkboxes-list .jet-checkboxes-list__item .jet-checkboxes-list__input:checked+.jet-checkboxes-list__button .jet-checkboxes-list__decorator{
+	background: #d30d16 !important;
+}
+
+/* Table */
+.wpDataTables{
+	margin: 0 !important;
+}
+.wpDataTables thead th{
+	text-transform: none !important;
+}
+.wpDataTables table td{
+	border: none !important;
+}
+.wpDataTables td[data-row-index="0"]{
+	border-top: 1px solid #EAE4CE !important;
+	border-right: 1px solid #EAE4CE !important;
+}
+.wpDataTables td[data-row-index="0"][data-col-index="0"]{
+	border-left: 1px solid #EAE4CE !important;
+}
+
+/* Tab Penghargaan */
+.tab-penghargaan img {
+	aspect-ratio: 1;
+	object-fit: contain;
+	height: 125px !important;
+}
+
+/* Leasing Landing Page */
+.section-leasing-flip .ube-flip-box .ube-flip-box-front {
+	background-color: unset !important;
+}
+
+body.page-id-27881 .wayra-coc-floating-button {
+	display: none !important;
+}
+
+body.page-id-27881 .scrollToTop {
+	bottom: 20px !important;
+}
